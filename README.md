@@ -1,7 +1,14 @@
 # Enlightened-citizenry
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+#### By _**Meaghan Jones adn Molly McGlone, Epicodus**_
+
+## Description
+
+We used the Sunlight Foundation's Congress API and used the following user stories to build an application:
+
+* As a user, I would like to be able to look up contact information for my legislators by zip so that I can contact them.
+* As a user, I would like to see the list of committees in the house and in the senate.
+* As a user, I would like to select a committee and see its subcommittees.
 
 ## Prerequisites
 
@@ -50,4 +57,10 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+  
+### License
+
+*MIT License*
+
+Copyright (c) 2016 **Meaghan Jones**
 
